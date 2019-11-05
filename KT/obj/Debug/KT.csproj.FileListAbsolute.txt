@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\KT\KT\bin\Debug\DATA\nhom.txt
+C:\Users\Administrator\source\repos\KT\KT\bin\Debug\KT.exe.config
+C:\Users\Administrator\source\repos\KT\KT\bin\Debug\KT.exe
+C:\Users\Administrator\source\repos\KT\KT\bin\Debug\KT.pdb
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.Form1.resources
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.Properties.Resources.resources
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.exe
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.pdb
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.frmThemNhom.resources
+C:\Users\Administrator\source\repos\KT\KT\obj\Debug\KT.frmThemLienLac.resources
